@@ -65,6 +65,6 @@ You can easily switch between your Network and Cameras by clicking the 9 dots in
 
 
 
-### Easy Switching
+### Contact and Support
 
 Having trouble with your network? [Contact Support](https://midcentury.com/sample-page/) and we'll help you sort it out.
