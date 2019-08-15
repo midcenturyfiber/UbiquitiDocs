@@ -8,20 +8,20 @@ You can use the [UniFi Protect Portal](https://protect.ui.com/) to maintain and 
 
 All your devices are access and managed through the cloud. The first thing you need to do is setup your Ubiquiti account.
 You will have recieved two emails containing invitations to manage your network.
-
-
+<br/>
+<br/>
 
 **This email grants you access to your network.**
-
+<br/>
+<br/>
 ![Network Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png){:width="400px"}
-
-
-
+<br/>
+<br/>
 **This email grants you access to your security system.**
 
 ![Cameras Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Dd5chuU58L.png){:width="400px"}
-
-
+<br/>
+<br/>
 
 If you don't already have a Ubiquiti account, you'll need to make one using the same email address you received your invation in.
 
