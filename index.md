@@ -10,8 +10,8 @@ All your devices are access and managed through the cloud. The first thing you n
 You will have recieved two emails containing invitations to manage your network.
 
 #### This email grants you access to your network.
-{:refdef: style="width: 10px; height: 10px"}
-[![Network Email]](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png){:width="100px"}
+{:refdef: style="width: 100px;}
+[![Network Email]](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png)
 {: refdef}
 
 #### This email grants you access to your security system.
