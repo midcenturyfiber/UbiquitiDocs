@@ -10,10 +10,10 @@ All your devices are access and managed through the cloud. The first thing you n
 You will have recieved two emails containing invitations to manage your network.
 
 #### This email grants you access to your network.
-![Network Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png)
+![Network Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png | width=100)
 
 #### This email grants you access to your security system.
-![Cameras Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Dd5chuU58L.png)
+![Cameras Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Dd5chuU58L.png | width=100)
 
 If you don't already have a Ubiquiti account, you'll need to make one using the same email address you received your invation in.
 ![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_PcSUUEFlce.png)
@@ -23,25 +23,30 @@ If you don't already have a Ubiquiti account, you'll need to make one using the 
 Now that you've created your account and accepted the invitation, go to [https://unifi.ubnt.com](https://unifi.ubnt.com) to view your network.
 
 You'll be greeting with an interface that looks like this.
-![Interface](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_s2D8CxmNpp.png)
+
+![Interface](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_s2D8CxmNpp.png | width=100)
 
 Click the **LAUNCH** button on the right to view your network.
 
 Here, you'll have access to connected devices, clients, statistics, settings, and more!
-![Control Panel](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_BB8JhrXcnt.png)
+
+![Control Panel](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_BB8JhrXcnt.png | width=100)
 
 ### Your Cameras
 
 To access your cameras, go to [https://protect.ui.com/](https://protect.ui.com/)
+
 Click on your location, and you'll be greeted with all your cameras.
 
 Here you can view their Live Feed and past recordings.
-![Cameras](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Bm7EaaV1Xb.png)
+
+![Cameras](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Bm7EaaV1Xb.png | width=100)
 
 ### Easy Switching
 
 You can easily switch between your Network and Cameras by clicking the 9 dots in the top right.
-![9 dots](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_tGbFc9y1D8.png)
+
+![9 dots](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_tGbFc9y1D8.png | width=100)
 
 
 ### Easy Switching
