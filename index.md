@@ -23,7 +23,7 @@ You will have recieved two emails containing invitations to manage your network.
 <br/>
 <br/>
 
-If you don't already have an Ubiquiti account, you'll need to make one using the same email address you received your invation in.
+If you don't already have an Ubiquiti account, you'll need to make one using the same email address you received your invitation in.
 
 ![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/assets/msedge_PcSUUEFlce.png){:width="400px"}
 
