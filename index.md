@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 ## Welcome to your Ubiquiti Network
 
 You can use the **[UniFi Cloud Access Portal](https://unifi.ubnt.com/)** to maintain and preview the devices for your network.
