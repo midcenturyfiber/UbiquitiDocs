@@ -16,7 +16,8 @@ You will have recieved two emails containing invitations to manage your network.
 ![Cameras Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Dd5chuU58L.png | width=100)
 
 If you don't already have a Ubiquiti account, you'll need to make one using the same email address you received your invation in.
-![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_PcSUUEFlce.png)
+
+![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_PcSUUEFlce.png | width=100)
 
 ### Your Network
 
