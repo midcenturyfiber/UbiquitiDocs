@@ -1,8 +1,8 @@
 ## Welcome to your Ubiquiti Network
 
-You can use the [UniFi Cloud Access Portal](https://unifi.ubnt.com/) to maintain and preview the devices for your network.
+You can use the **[UniFi Cloud Access Portal](https://unifi.ubnt.com/)** to maintain and preview the devices for your network.
 
-You can use the [UniFi Protect Portal](https://protect.ui.com/) to maintain and preview the cameras for your network.
+You can use the **[UniFi Protect Portal](https://protect.ui.com/)** to maintain and preview the cameras for your network.
 
 ### First Time Setup
 
