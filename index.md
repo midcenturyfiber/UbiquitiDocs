@@ -9,15 +9,25 @@ You can use the [UniFi Protect Portal](https://protect.ui.com/) to maintain and 
 All your devices are access and managed through the cloud. The first thing you need to do is setup your Ubiquiti account.
 You will have recieved two emails containing invitations to manage your network.
 
+
+
 **This email grants you access to your network.**
+
 ![Network Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png){:width="400px"}
 
+
+
 **This email grants you access to your security system.**
+
 ![Cameras Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Dd5chuU58L.png){:width="400px"}
+
+
 
 If you don't already have a Ubiquiti account, you'll need to make one using the same email address you received your invation in.
 
 ![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_PcSUUEFlce.png){:width="400px"}
+
+
 
 ### Your Network
 
@@ -33,6 +43,8 @@ Here, you'll have access to connected devices, clients, statistics, settings, an
 
 ![Control Panel](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_BB8JhrXcnt.png){:width="400px"}
 
+
+
 ### Your Cameras
 
 To access your cameras, go to [https://protect.ui.com/](https://protect.ui.com/)
@@ -43,11 +55,14 @@ Here you can view their Live Feed and past recordings.
 
 ![Cameras](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Bm7EaaV1Xb.png){:width="400px"}
 
+
+
 ### Easy Switching
 
 You can easily switch between your Network and Cameras by clicking the 9 dots in the top right.
 
 ![9 dots](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_tGbFc9y1D8.png){:width="400px"}
+
 
 
 ### Easy Switching
