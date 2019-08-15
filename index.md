@@ -6,7 +6,7 @@ You can use the **[UniFi Protect Portal](https://protect.ui.com/)** to maintain 
 
 ### First Time Setup
 
-All your devices are access and managed through the cloud. The first thing you need to do is setup your Ubiquiti account.
+All your devices are accessed and managed through the cloud. The first thing you need to do is setup your Ubiquiti account.
 You will have recieved two emails containing invitations to manage your network.
 <br/>
 <br/>
@@ -23,7 +23,7 @@ You will have recieved two emails containing invitations to manage your network.
 <br/>
 <br/>
 
-If you don't already have a Ubiquiti account, you'll need to make one using the same email address you received your invation in.
+If you don't already have an Ubiquiti account, you'll need to make one using the same email address you received your invation in.
 
 ![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/assets/msedge_PcSUUEFlce.png){:width="400px"}
 
@@ -33,7 +33,7 @@ If you don't already have a Ubiquiti account, you'll need to make one using the 
 
 Now that you've created your account and accepted the invitation, go to [https://unifi.ubnt.com](https://unifi.ubnt.com) to view your network.
 
-You'll be greeting with an interface that looks like this.
+You'll be greeted with an interface that looks like this.
 
 ![Interface](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/assets/msedge_s2D8CxmNpp.png){:width="400px"}
 
