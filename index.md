@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to your Ubiquiti Network
 
-You can use the [editor on GitHub](https://github.com/ronaldburns/UbiquitiDocs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [UniFi Cloud Access Portal](https://unifi.ubnt.com/) to maintain and preview the devices for your network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [UniFi Protect Portal](https://protect.ui.com/) to maintain and preview the cameras for your network.
 
-### Markdown
+### First Time Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All your devices are access and managed through the cloud. The first thing you need to do is setup your Ubiquiti account.
+You will have recieved two emails containing invitations to manage your network.
 
-```markdown
-Syntax highlighted code block
+#### This email grants you access to your network.
+![Network Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_bb56usToQc.png)
 
-# Header 1
-## Header 2
-### Header 3
+#### This email grants you access to your security system.
+![Cameras Email](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Dd5chuU58L.png)
 
-- Bulleted
-- List
+If you don't already have a Ubiquiti account, you'll need to make one using the same email address you received your invation in.
+![Login](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_PcSUUEFlce.png)
 
-1. Numbered
-2. List
+### Your Network
 
-**Bold** and _Italic_ and `Code` text
+Now that you've created your account and accepted the invitation, go to [https://unifi.ubnt.com](https://unifi.ubnt.com) to view your network.
 
-[Link](url) and ![Image](src)
-```
+You'll be greeting with an interface that looks like this.
+![Interface](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_s2D8CxmNpp.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Click the **LAUNCH** button on the right to view your network.
 
-### Jekyll Themes
+Here, you'll have access to connected devices, clients, statistics, settings, and more!
+![Control Panel](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_BB8JhrXcnt.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ronaldburns/UbiquitiDocs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Your Cameras
 
-### Support or Contact
+To access your cameras, go to [https://protect.ui.com/](https://protect.ui.com/)
+Click on your location, and you'll be greeted with all your cameras.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here you can view their Live Feed and past recordings.
+![Cameras](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_Bm7EaaV1Xb.png)
+
+### Easy Switching
+
+You can easily switch between your Network and Cameras by clicking the 9 dots in the top right.
+![9 dots](https://raw.githubusercontent.com/ronaldburns/UbiquitiDocs/master/msedge_tGbFc9y1D8.png)
+
+
+### Easy Switching
+
+Having trouble with your network? [Contact Support](https://midcentury.com/sample-page/) and we'll help you sort it out.
